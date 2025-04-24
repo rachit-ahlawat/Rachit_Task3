@@ -1,1 +1,4 @@
 # Rachit_Task3
+As part of Task 3, I worked on analyzing a retail transaction dataset using SQL to extract meaningful insights. I imported the dataset into MySQL and explored its structure, which included fields like InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country. After ensuring data quality (including handling issues like empty CustomerID values), I used a range of SQL queries to filter, sort, group, and summarize the data effectively.
+
+I applied various SQL techniques such as SELECT, WHERE, GROUP BY, ORDER BY, and aggregate functions like SUM, AVG, and COUNT. Additionally, I created subqueries, calculated daily and customer-level revenue, identified top-selling products, and created views for reusable filtered data. This task enhanced my ability to derive actionable insights from raw data, optimized queries with indexes, and helped me build a strong foundation in SQL for data analytics.
